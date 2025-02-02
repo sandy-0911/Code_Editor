@@ -1,0 +1,12 @@
+{
+  "name": "codecraft",
+  "version": "1.0.0",
+  "description": "A modern code editor with support for HTML, CSS, JavaScript, and C++",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
