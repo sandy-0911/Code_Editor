@@ -83,6 +83,11 @@ button:hover {
     flex: 1;
     background-color: white;
     padding: 1rem;
+    color: #333;
+}
+
+#preview-frame * {
+    color: #333;
 }
 
 #console-output {
